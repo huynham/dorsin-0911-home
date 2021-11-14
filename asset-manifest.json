@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/dorsin-0911-home/static/css/main.ce965210.chunk.css",
+    "main.js": "/dorsin-0911-home/static/js/main.1cfeeb60.chunk.js",
+    "main.js.map": "/dorsin-0911-home/static/js/main.1cfeeb60.chunk.js.map",
+    "runtime-main.js": "/dorsin-0911-home/static/js/runtime-main.94e51e25.js",
+    "runtime-main.js.map": "/dorsin-0911-home/static/js/runtime-main.94e51e25.js.map",
+    "static/js/2.ee0196f4.chunk.js": "/dorsin-0911-home/static/js/2.ee0196f4.chunk.js",
+    "static/js/2.ee0196f4.chunk.js.map": "/dorsin-0911-home/static/js/2.ee0196f4.chunk.js.map",
+    "static/js/3.d36a4eb4.chunk.js": "/dorsin-0911-home/static/js/3.d36a4eb4.chunk.js",
+    "static/js/3.d36a4eb4.chunk.js.map": "/dorsin-0911-home/static/js/3.d36a4eb4.chunk.js.map",
+    "index.html": "/dorsin-0911-home/index.html",
+    "static/css/main.ce965210.chunk.css.map": "/dorsin-0911-home/static/css/main.ce965210.chunk.css.map",
+    "static/js/2.ee0196f4.chunk.js.LICENSE.txt": "/dorsin-0911-home/static/js/2.ee0196f4.chunk.js.LICENSE.txt",
+    "static/media/home.css": "/dorsin-0911-home/static/media/bg-home.54f33acf.jpg",
+    "static/media/blog1.92858176.jpg": "/dorsin-0911-home/static/media/blog1.92858176.jpg",
+    "static/media/blog2.61d6433c.jpg": "/dorsin-0911-home/static/media/blog2.61d6433c.jpg",
+    "static/media/blog3.e02d8424.jpg": "/dorsin-0911-home/static/media/blog3.e02d8424.jpg",
+    "static/media/feature.css": "/dorsin-0911-home/static/media/img1.8a3436d8.jpg",
+    "static/media/teamHai.css": "/dorsin-0911-home/static/media/img2.03c94a50.jpg",
+    "static/media/online-world.3a222d0d.svg": "/dorsin-0911-home/static/media/online-world.3a222d0d.svg",
+    "static/media/payment.57ed5283.png": "/dorsin-0911-home/static/media/payment.57ed5283.png",
+    "static/media/pikachu.30e9e15e.jpg": "/dorsin-0911-home/static/media/pikachu.30e9e15e.jpg",
+    "static/media/team1.10c56f8a.jpg": "/dorsin-0911-home/static/media/team1.10c56f8a.jpg",
+    "static/media/team2.ca8041d7.jpg": "/dorsin-0911-home/static/media/team2.ca8041d7.jpg",
+    "static/media/team3.b6cd3b7b.jpg": "/dorsin-0911-home/static/media/team3.b6cd3b7b.jpg",
+    "static/media/team4.6ab39f2f.jpg": "/dorsin-0911-home/static/media/team4.6ab39f2f.jpg",
+    "static/media/videocat.edc94426.mp4": "/dorsin-0911-home/static/media/videocat.edc94426.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94e51e25.js",
+    "static/js/2.ee0196f4.chunk.js",
+    "static/css/main.ce965210.chunk.css",
+    "static/js/main.1cfeeb60.chunk.js"
+  ]
+}
